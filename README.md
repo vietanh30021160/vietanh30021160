@@ -1,9 +1,3 @@
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="poYmNxw" data-user="konstantindenerz" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/konstantindenerz/pen/poYmNxw">
-  &quot;Hack The Gibson&quot; (CSS)</a> by Konstantin Denerz (<a href="https://codepen.io/konstantindenerz">@konstantindenerz</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Viet+Anh!;" />
