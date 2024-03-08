@@ -1,25 +1,25 @@
-<svg fill="none" viewBox="0 0 846 150" width="846" height="150" xmlns="http://www.w3.org/2000/svg">
+<svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
 			<style>
 				@font-face {
-  font-family: "Klingon pIqaD HaSta";
-  // license: https://assets.codepen.io/907471/pIqaD-HaSta-licence.txt
-  src: url("https://assets.codepen.io/907471/Klingon-pIqaD-HaSta.ttf")
-    format("truetype");
-}
+                font-family: "Klingon pIqaD HaSta";
+                // license: https://assets.codepen.io/907471/pIqaD-HaSta-licence.txt
+                src: url("https://assets.codepen.io/907471/Klingon-pIqaD-HaSta.ttf")
+                    format("truetype");
+                }
 
-#container {
-  background: inherit;
-}
+                #container {
+                background: inherit;
+                }
 
-body {
-  background: black;
-  height: 100vh;
-  width: 100vw;
-  color: #ea6161;
-  overflow: hidden;
-}
+                body {
+                background: black;
+                height: 100vh;
+                width: 100vw;
+                color: #ea6161;
+                overflow: hidden;
+                }
 			</style>
 
 			canvas#container
