@@ -1,3 +1,7 @@
+# Animated Klingon pIqaD HaSta Font
+
+Below is an SVG example demonstrating the animated Klingon pIqaD HaSta font.
+
 <svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
 	<foreignObject width="100%" height="100%">
 		<div xmlns="http://www.w3.org/1999/xhtml">
@@ -21,7 +25,7 @@
                 }
 			</style>
 
-			<điv id="container"></div>
+			<div id="container"></div>
             <script>
                 const primaryColor = "#ea6161";
                 const source = "";
