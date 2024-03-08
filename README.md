@@ -8,9 +8,13 @@
 
 ## I'm an indie developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
-# 🔭 I’m currently studying at **FPT Univesity**
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-# 🌱 I’m currently learning **Spring boot**
+- 🔭 I’m currently studying at **FPT Univesity**
+
+- 🌱 I’m currently learning **Spring**
+
+- 💬 Ask me about **Java , SQL**
 
 ### 🧰 Languages and Tools
 
