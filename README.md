@@ -6,7 +6,7 @@
 
 **`Viet Anh (Developer)`**
 
-## I'm an indie developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
+## I'm an developer building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code.
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjF6cDNzODI4bXlpZW14NHJoYXI1OHJrbjNqYmF0bmV6M3NmeTRjdyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/RbDKaczqWovIugyJmW/giphy.gif">
 
